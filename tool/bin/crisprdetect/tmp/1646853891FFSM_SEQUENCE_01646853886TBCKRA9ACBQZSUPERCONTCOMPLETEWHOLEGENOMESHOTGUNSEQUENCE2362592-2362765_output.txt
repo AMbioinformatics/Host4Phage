@@ -1,0 +1,38 @@
+########################################
+# Program: water
+# Rundate: Wed  9 Mar 2022 20:24:51
+# Commandline: water
+#    -asequence /home/ola/host4phage/tool/bin/crisprdetect/tmp/1646853891FFSM_SEQUENCE_01646853886TBCKRA9ACBQZSUPERCONTCOMPLETEWHOLEGENOMESHOTGUNSEQUENCE2362592-2362765_spacer_bases.txt
+#    -bsequence /home/ola/host4phage/tool/bin/crisprdetect/tmp/1646853891FFSM_SEQUENCE_01646853886TBCKRA9ACBQZSUPERCONTCOMPLETEWHOLEGENOMESHOTGUNSEQUENCE2362592-2362765_repeat_bases.txt
+#    -gapopen 4.5
+#    -gapextend 4.45
+#    -outfile /home/ola/host4phage/tool/bin/crisprdetect/tmp/1646853891FFSM_SEQUENCE_01646853886TBCKRA9ACBQZSUPERCONTCOMPLETEWHOLEGENOMESHOTGUNSEQUENCE2362592-2362765_output.txt
+# Align_format: srspair
+# Report_file: /home/ola/host4phage/tool/bin/crisprdetect/tmp/1646853891FFSM_SEQUENCE_01646853886TBCKRA9ACBQZSUPERCONTCOMPLETEWHOLEGENOMESHOTGUNSEQUENCE2362592-2362765_output.txt
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 
+# 2: 
+# Matrix: EDNAFULL
+# Gap_penalty: 4.5
+# Extend_penalty: 4.45
+#
+# Length: 42
+# Identity:      32/42 (76.2%)
+# Similarity:    32/42 (76.2%)
+# Gaps:           4/42 ( 9.5%)
+# Score: 118.0
+# 
+#
+#=======================================
+
+                  24 CCCG-GAGTTCCGGCCGGTCCGGTGGCTCCGGTC-GGACCCG     63
+                     ||.| | |.|||.|.|||.||||||||||||| | |||||.|
+                   1 CCTGTG-GCTCCTGTCGGGCCGGTGGCTCCGG-CTGGACCTG     40
+
+
+#---------------------------------------
+#---------------------------------------

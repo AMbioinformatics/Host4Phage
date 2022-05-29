@@ -1,0 +1,242 @@
+
+
+Array 1
+>SEQUENCE_201646992539NVRQASPHMSC03D10SCAFFOLD1179WHOLEGENOMESHOTGUNSEQUENCE|
+
+       Pos  Repeat     %id  Spacer  Left flank    Repeat                               Spacer
+==========  ======  ======  ======  ==========    =============    ======
+      7459      13   100.0      53  NNNNNNNNNN    .............    TCTGACAGCCCTGGAAGGCCGCCAAGACCAAGACACCGCCTATGACGACAGCG           
+      7525      13   100.0      53  NNNNNNNNNN    .............    CCTGACTGCGCTGGAAGGCCGTCAAGACAAAGACACCGTCTACGACGATAGCG           
+      7591      13   100.0      99  NNNNNNNNNN    .............    CCTGACTGCATTGGAAGGCCGCCAAGACAAAGACACCGTNNNNNNNNNNNNNNNNNNNNGAAGGCCGCCAAGACAAAGACACCGTATTCGACGACAGCG           
+      7703      13   100.0       0  NNNNNNNNNN    .............    NNNNNNNNNN
+==========  ======  ======  ======  ==========    =============
+         4      13              99                ACCTGAAACGCCG
+
+
+
+Array 1
+>SEQUENCE_211646992539RPYHIIDJASPHMSC03D10SCAFFOLD1186WHOLEGENOMESHOTGUNSEQUENCE|
+
+       Pos  Repeat     %id  Spacer  Left flank    Repeat                               Spacer
+==========  ======  ======  ======  ==========    ==============    ======
+     53736      14   100.0      62  NNNNNNNNNN    ..............    CGAAATTGCNNNNNNNNNNNNNNNNNNNNGCCGAGAAAAAAGCCGCGGCCGAGAAAAAAGCT           
+     53812      14   100.0      64  NNNNNNNNNN    ..............    CGAAATTGCGCACAAGATTGCCATGGCCGCAGCCGAGAAAAAAGCCGCGGCCGAGAAAAAGGCC           
+     53890      14   100.0       0  NNNNNNNNNN    ..............    NNNNNNNNNN
+==========  ======  ======  ======  ==========    ==============
+         3      14              64                GCTCAGGAAAGAGC
+
+
+
+Array 1
+>SEQUENCE_381646992539RVEOWGIHRODASPHMSC03D10SCAFFOLD1387WHOLEGENOMESHOTGUNSEQUENCE|
+
+       Pos  Repeat     %id  Spacer  Left flank    Repeat                               Spacer
+==========  ======  ======  ======  ==========    ================    ======
+      3818      16   100.0      54  NNNNNNNNNN    ................    TAATCGGGGATTAAGACGAATATCAAACCATCTGTTTGCAATTTTAGTTTTGTC           
+      3888      16   100.0      94  NNNNNNNNNN    ................    TAATCGGNNNNNNNNNNNNNNNNNNNNAGACTTGCCCCACTAATCGGGGATTAAGACAGCGGGCAAGCACGTCATCAATCAGGGCTTTTACGTC           
+      3998      16   100.0      54  NNNNNNNNNN    ................    TAATCGGGGATTAAGACATCAACAATACCACCAATGTTCACATCAGCGATCGTC           
+      4068      16   100.0      53  NNNNNNNNNN    ................    TAATCGGGGATTAAGACAGTTATCCCTTGCGATTCGCACAATTCAGTTTTGTC           
+      4137      16   100.0      95  NNNNNNNNNN    ................    TAATCGGNNNNNNNNNNNNNNNNNNNNAAGACTTGCCCCACTAATCGGGGATTAAGACTGCGAAAACCACCCGTTCTCATGCGTCAGATTGTGTC           
+      4248      16   100.0      55  NNNNNNNNNN    ................    TAATCGGGGATTAAGACAAATTCTTCAGTAGGATGTAAGACATTGTTTTCATGTC           
+      4319      16   100.0      55  NNNNNNNNNN    ................    TAATCGGGGATTAAGACGAAATCGAAACACTGCAACGTGCTGCGAGTGCCCAGTC           
+      4390      16   100.0      54  NNNNNNNNNN    ................    TAATCGGGGATTAAGACCGTGCACGCGTTGACCTTTCTTGATTGTAGTATTGTC           
+      4460      16   100.0      54  NNNNNNNNNN    ................    TAATCGGGGATTAAGACGCATCTGTATCTGCTCTTTAAATTTTGTGTTTATGTC           
+      4530      16   100.0      54  NNNNNNNNNN    ................    TAATCGGGGATTAAGACGAAATGTCCTAAGTGTAAGAAACACAATCTCTTTGTC           
+      4600      16   100.0      55  NNNNNNNNNN    ................    TAATCGGGGATTAAGACATATGTGCAGTATAGGATTTGGTAATGCCACTTTTGTC           
+      4671      16   100.0      55  NNNNNNNNNN    ................    TAATCGGGGATTAAGACACTTACCTGATGGTCCAGATGGTGAAAAAGGTAAAGTC           
+      4742      16   100.0      99  NNNNNNNNNN    ................    TAATCGGGGATNNNNNNNNNNNNNNNNNNNNAGACTTGCCCCACTAATCGGGGATTAAGACAATTCCACAGAACGATGGTAAGCCGAAATGGTTTTGTC           
+      4857      16   100.0      55  NNNNNNNNNN    ................    TAATCGGGGATTAAGACCCATGTTATCCATGCGATTTTCATTAGTAGTTTCAGTT           
+      4928      16   100.0      54  NNNNNNNNNN    ................    TAATCGGGGATTAAGACTACAGCGTGGATTTGCCGTTGGCGGTATAGCTTCGTC           
+      4998      16   100.0       0  NNNNNNNNNN    ................    NNNNNNNNNN
+==========  ======  ======  ======  ==========    ================
+        16      16              54                GGAAGACTTGCCCCAC
+
+
+
+Array 2
+>SEQUENCE_381646992539RVEOWGIHRODASPHMSC03D10SCAFFOLD1387WHOLEGENOMESHOTGUNSEQUENCE|
+
+       Pos  Repeat     %id  Spacer  Left flank    Repeat                               Spacer
+==========  ======  ======  ======  ==========    ============    ======
+      8731      12   100.0     103  NNNNNNNNNN    ............    CGATGAGGCTAATGCTGCAAAAGGGGTAGCCAAAGTCTTAATCCCCGATTAGTGGGGCAAGTCTTNNNNNNNNNNNNNNNNNNNNATCCCCGATTAGTGGGGC           
+      8846      12   100.0      60  NNNNNNNNNN    ............    TTGGAACGTTTTTTAGACAAACTGGAAAAGCAAAACGTCTTAATCCCCGATTAGTGGGGC           
+      8918      12   100.0       0  NNNNNNNNNN    ............    NNNNNNNNNN
+==========  ======  ======  ======  ==========    ============
+         3      12              60                AAGTCTTCCGAC
+
+
+
+Array 3
+>SEQUENCE_381646992539RVEOWGIHRODASPHMSC03D10SCAFFOLD1387WHOLEGENOMESHOTGUNSEQUENCE|
+
+       Pos  Repeat     %id  Spacer  Left flank    Repeat                               Spacer
+==========  ======  ======  ======  ==========    =========================    ======
+      8713      25   100.0      45  NNNNNNNNNN    .........................    CCGACCGATGAGGCTAATGCTGCAAAAGGGGTAGCCAAAGTCTTA           
+      8783      25   100.0      20  NNNNNNNNNN    .........................    NNNNNNNNNNNNNNNNNNNN           
+      8828      25   100.0      47  NNNNNNNNNN    .........................    CCGACTTGGAACGTTTTTTAGACAAACTGGAAAAGCAAAACGTCTTA           
+      8900      25   100.0       0  NNNNNNNNNN    .........................    NNNNNNNNNN
+==========  ======  ======  ======  ==========    =========================
+         4      25              47                ATCCCCGATTAGTGGGGCAAGTCTT
+
+
+
+Array 1
+>SEQUENCE_411646992539VTWCIMQQASPHMSC03D10SCAFFOLD1436WHOLEGENOMESHOTGUNSEQUENCE|
+
+       Pos  Repeat     %id  Spacer  Left flank    Repeat                               Spacer
+==========  ======  ======  ======  ==========    ===============    ======
+    154023      15   100.0      21  NNNNNNNNNN    ...............    AGCTTTCTTGGATTCTTCAGC           
+    154059      15   100.0       3  NNNNNNNNNN    ...............    AGC       
+    154077      15   100.0      39  NNNNNNNNNN    ...............    AGCCTTCTTGGCTTCTTCAGCTTTCCTGGCTTCTTCGGC           
+    154131      15   100.0      32  NNNNNNNNNN    ...............    GGCTNNNNNNNNNNNNNNNNNNNNTCTTCGGC           
+    154178      15   100.0       0  NNNNNNNNNN    ...............    NNNNNNNNNN
+==========  ======  ======  ======  ==========    ===============
+         5      15              32                TTTCTTGGCTTCTTC
+
+
+
+Array 1
+>SEQUENCE_601646992539MTXNECALVOBASPHMSC03D10SCAFFOLD1924WHOLEGENOMESHOTGUNSEQUENCE|
+
+       Pos  Repeat     %id  Spacer  Left flank    Repeat                               Spacer
+==========  ======  ======  ======  ==========    ===========    ======
+      1728      11   100.0      54  NNNNNNNNNN    ...........    TGAAGGCGGCTGGCGACTGCCCCTGCGCCGCCGTATTGCTCAGATTGTTTCAAC           
+      1793      11   100.0      54  NNNNNNNNNN    ...........    TGAAGGCGGCTGGTAACGTAAATTAACAAAACAGTCTGTACCATGCGTTTCAAC           
+      1858      11   100.0      56  NNNNNNNNNN    ...........    TGAAGGCGGCTGGAAGGTATCCTATAGTACAAATAAATAATCCCTTAGGTTTCAAC           
+      1925      11   100.0      35  NNNNNNNNNN    ...........    TGAAGGCGGNNNNNNNNNNNNNNNNNNNNTTCAAC           
+      1971      11   100.0      56  NNNNNNNNNN    ...........    TGAAGGCGGCTGGCAGGACAGTAAGTTGGCAGAGCATTTGCGCTACCTGTTTCAAC           
+      2038      11   100.0      55  NNNNNNNNNN    ...........    TGAAGGCGGCTGGTACGCTGCCTGCTTGCAGGTATACGGGGGGGGAAGTTTCAAC           
+      2104      11   100.0      56  NNNNNNNNNN    ...........    TGAAGGCGGCTGGTAAGGATATTTCTGTAAGTTACTGATTACTATACAGTTTCAAC           
+      2171      11   100.0      54  NNNNNNNNNN    ...........    TGAAGGCGGCTGGAAAAGGGTATGTTCGTTCTCCACCGTCGCCGATGTTTCAAC           
+      2236      11   100.0      34  NNNNNNNNNN    ...........    TGAAGGCGNNNNNNNNNNNNNNNNNNNNTTCAAC           
+      2281      11   100.0      57  NNNNNNNNNN    ...........    TGAAGGCGGCTGGCCCCACAAAAGACGGCAGGTTCGCCGCCGCCCGCGTGTTTCAAC           
+      2349      11   100.0      60  NNNNNNNNNN    ...........    TGAAGGCGGCTGGTGCAGACATATGCAGTGGATATTACCAGTGAACAGGCATGTTTCAAC           
+      2420      11   100.0      56  NNNNNNNNNN    ...........    TGAAGGCGGCTGGGTGTGCAAGCAGAAAAGATTAAACAATATCTGCAAGTTTCAAC           
+      2487      11   100.0      57  NNNNNNNNNN    ...........    TGAAGGCGGCTGTGTATAGACAAAATCATACGTCGTCAGATAGGGGCGTGTTTCAAC           
+      2555      11   100.0      56  NNNNNNNNNN    ...........    TGAAGGCGGCTGGGGTATACCAAATTCCTTGTACAGTGCAGTATCAAGGTTTCAAC           
+      2622      11   100.0      60  NNNNNNNNNN    ...........    TGAAGGCGGCTGGTGCAGACATATGCAGTGGATATTACCAGTGAACAGGCATGTTTCAAC           
+      2693      11   100.0      54  NNNNNNNNNN    ...........    TGAAGGCGGCTGGACCAGCGTTGGTAATCATACCAAACGCAGGCATGTTTCAAC           
+      2758      11   100.0       0  NNNNNNNNNN    ...........    NNNNNNNNNN
+==========  ======  ======  ======  ==========    ===========
+        17      11              54                ACACAGCCGCC
+
+
+
+Array 2
+>SEQUENCE_601646992539MTXNECALVOBASPHMSC03D10SCAFFOLD1924WHOLEGENOMESHOTGUNSEQUENCE|
+
+       Pos  Repeat     %id  Spacer  Left flank    Repeat                               Spacer
+==========  ======  ======  ======  ==========    ===================    ======
+     18811      19   100.0      48  NNNNNNNNNN    ...................    GGTCAACCTTGCCATGCAGGACACGCTGGTATTTGACGTTTCAACACA           
+     18878      19   100.0      48  NNNNNNNNNN    ...................    GGTCAACACGTTTGCAACAGGCTGGATGTTGATTAAAGTTTCAACACA           
+     18945      19   100.0      50  NNNNNNNNNN    ...................    GGCCGTGGTTATGCGCAAAGCTCGGCGTAATATCGTCGGGTTTCAACACA           
+     19014      19   100.0       0  NNNNNNNNNN    ...................    NNNNNNNNNN
+==========  ======  ======  ======  ==========    ===================
+         4      19              50                CAGCCGCCTGAAGGCGGCT
+
+
+
+Array 3
+>SEQUENCE_601646992539MTXNECALVOBASPHMSC03D10SCAFFOLD1924WHOLEGENOMESHOTGUNSEQUENCE|
+
+       Pos  Repeat     %id  Spacer  Left flank    Repeat                               Spacer
+==========  ======  ======  ======  ==========    ==================    ======
+     28227      18   100.0      48  NNNNNNNNNN    ..................    CTGGGCAATTCCAGCATATTTAACCGCGCACTCTCCGAGTTTCAACAC           
+     28293      18   100.0      28  NNNNNNNNNN    ..................    NNNNNNNNNNNNNNNNNNNNTTCAACAC           
+     28339      18   100.0      48  NNNNNNNNNN    ..................    CTGGCATTCGCTTTTCAGACGACAAATAACGATTCGAGGTTTCAACAC           
+     28405      18   100.0      49  NNNNNNNNNN    ..................    CTGGCACTGAACACCCTTAATCATTTTCCAACCCCTGAAGTTTCAACAC           
+     28472      18   100.0      50  NNNNNNNNNN    ..................    CTGGGGATTCATGGGCTATAAGATGTATCAGGGTTATAAGGTTTCAACAC           
+     28540      18   100.0      27  NNNNNNNNNN    ..................    CNNNNNNNNNNNNNNNNNNNNCAACAC           
+     28585      18   100.0      50  NNNNNNNNNN    ..................    CTGGCCGTAGAAAGTCGCGTCTCCAAATCCACAGTCTTCAGTTTCAACAC           
+     28653      18   100.0      47  NNNNNNNNNN    ..................    CTGGGTACGTCCAAACAAAGCTATCGACGTACAAGACGTTTCAACAC           
+     28718      18   100.0      48  NNNNNNNNNN    ..................    CTGGTTAACTACCTTTTCAGGAGCATTATTAGCCGCACGTTTCAACAC           
+     28784      18   100.0      29  NNNNNNNNNN    ..................    CTNNNNNNNNNNNNNNNNNNNNTCAACAC           
+     28831      18   100.0      48  NNNNNNNNNN    ..................    CTGGCTCGCCCAATAAATCTTCTTGGAATCACCGTCCAGTTTCAACAC           
+     28897      18   100.0      49  NNNNNNNNNN    ..................    CTGGCAAGGTTCTTTAAACATGATGCCTTCTCAAATTTGGTTTCAACAC           
+     28964      18   100.0      47  NNNNNNNNNN    ..................    CTGGATTTACCCATGTATTCCGCGATGGTATCAAGCAGTTTCAACAC           
+     29029      18   100.0      28  NNNNNNNNNN    ..................    CNNNNNNNNNNNNNNNNNNNNTCAACAC           
+     29075      18   100.0      48  NNNNNNNNNN    ..................    CTGGTAGTGATTTTGGCTTTAACGATTGGGTCGAATGCGTTTCAACAC           
+     29141      18   100.0      48  NNNNNNNNNN    ..................    CTGGATAGTGTTTATACTTCATGACTCGATCTCTTATTGTTTCAACAC           
+     29207      18   100.0      47  NNNNNNNNNN    ..................    CTGGGCAATTTGCTTGGCTTTTGAGTATTTCATGATTGTTTCAACAC           
+     29272      18   100.0      25  NNNNNNNNNN    ..................    NNNNNNNNNNNNNNNNNNNNAACAC           
+     29315      18   100.0      47  NNNNNNNNNN    ..................    CTGGGTCATTAAATCACGTTTGGCGAATCGCTTGGAAGTTTCAACAC           
+     29380      18   100.0      47  NNNNNNNNNN    ..................    CTGGCGTCCCCGAATCGTCCGAAACCTTCTGTCTCTAGTTTCAACAC           
+     29445      18   100.0      47  NNNNNNNNNN    ..................    CTGGGGTCTGAAGGCAAGCTCTAAACCGATTTCGCCTGTTTCAACAC           
+     29510      18   100.0      27  NNNNNNNNNN    ..................    NNNNNNNNNNNNNNNNNNNNTCAACAC           
+     29555      18   100.0      49  NNNNNNNNNN    ..................    CTGGCGATGTAACTATGAGCAAGCAGGCGCGCAAGCTGCGTTTCAACAC           
+     29622      18   100.0      47  NNNNNNNNNN    ..................    CTGGCTTTGTCCACAAAAAGGACATTGCGAAGCTGTTGTTTCAACAC           
+     29687      18   100.0       0  NNNNNNNNNN    ..................    NNNNNNNNNN
+==========  ======  ======  ======  ==========    ==================
+        25      18              47                ACAGCCGCCTGAAGGCGG
+
+
+
+Array 4
+>SEQUENCE_601646992539MTXNECALVOBASPHMSC03D10SCAFFOLD1924WHOLEGENOMESHOTGUNSEQUENCE|
+
+       Pos  Repeat     %id  Spacer  Left flank    Repeat                               Spacer
+==========  ======  ======  ======  ==========    =========================    ======
+     29745      25   100.0      41  NNNNNNNNNN    .........................    GCTGGAGCGGTGCGCCCTTGATGGTGTAGGAATACGCAGGT           
+     29811      25   100.0      43  NNNNNNNNNN    .........................    GCTGGCGCCTTGTAGCAGACTTGCCCAAAGGTGTCCAGTTGGT           
+     29879      25   100.0      42  NNNNNNNNNN    .........................    GCTGGGGTCGTCTGAAATCAGACGGCCTTTTTTATTTGGAGT           
+     29946      25   100.0      83  NNNNNNNNNN    .........................    NNNNNNNNNNNNNNNNNNNNAACACACAGCCGCCTGAAGGCGGCTGGCTATGCTGGCGGCTTCGGTGCGTGATGTCTGCTCGT           
+     30054      25   100.0      41  NNNNNNNNNN    .........................    GCTGGGCAGCGAGTGACGAAAGCCTTAACGCACTTGGGCGT           
+     30120      25   100.0      44  NNNNNNNNNN    .........................    GCTGGTATCAACACGTTTGCGACCGGCTGGATGTTGATTAAAGT           
+     30189      25   100.0      43  NNNNNNNNNN    .........................    GCTGGTGATTCTTCCTTTTTCAGCAAATGATAAATTTTATAGT           
+     30257      25   100.0      41  NNNNNNNNNN    .........................    GCTGGATCAACCCCGTGCAATACATCGGACCGGATACAGGT           
+     30323      25   100.0      87  NNNNNNNNNN    .........................    GCNNNNNNNNNNNNNNNNNNNNTCAACACACAGCCGCCTGAAGGCGGCTGGGGCCGCCAAACTCAAACAAACACTCAGCCTGCTGGT           
+     30435      25   100.0      42  NNNNNNNNNN    .........................    GCTGGTTATGATGGTCTATCAAAAGGCCGTTGATGTTGGAGT           
+     30502      25   100.0      41  NNNNNNNNNN    .........................    GCTGGCTAAGGGTGTAGCGACAATCAGGCGGCAATAGTCGT           
+     30568      25   100.0      88  NNNNNNNNNN    .........................    GCNNNNNNNNNNNNNNNNNNNNTCAACACACAGCCGCCTGAAGGCGGCTGGCTCAGCATCTTTACAGATACGTTCATATCCCGGTAGT           
+     30681      25   100.0      42  NNNNNNNNNN    .........................    GCTGGACAACCTATATGAGAGGTATCACCAAAGCAACAGTGT           
+     30748      25   100.0      41  NNNNNNNNNN    .........................    GCTGGGTCATGTATGGCCGGTGCGTGGTTTTCGGTACATGT           
+     30814      25   100.0      88  NNNNNNNNNN    .........................    GCNNNNNNNNNNNNNNNNNNNNTCAACACACAGCCGCCTGAAGGCGGCTGGATATCCTTGATGTGTTGCCTTTCCCTGTCTTGTGGGT           
+     30927      25   100.0      42  NNNNNNNNNN    .........................    GCTGGTTTTATAAACTTATAAAACTTTTGCATAATTATAAGT           
+     30994      25   100.0      42  NNNNNNNNNN    .........................    GCTGGTCTGCGTCCCTTAGGGACATAGCCGTGCTGCTTGCGT           
+     31061      25   100.0      90  NNNNNNNNNN    .........................    GNNNNNNNNNNNNNNNNNNNNTCAACACACAGCCGCCTGAAGGCGGCTGGGTCCTGATGGGGTGTCAGAGCGGGCTTGGCACCGATGGGT           
+     31176      25   100.0       0  NNNNNNNNNN    .........................    NNNNNNNNNN
+==========  ======  ======  ======  ==========    =========================
+        19      25              90                TTCAACACACAGCCGCCTGAAGGCG
+
+
+
+Array 5
+>SEQUENCE_601646992539MTXNECALVOBASPHMSC03D10SCAFFOLD1924WHOLEGENOMESHOTGUNSEQUENCE|
+
+       Pos  Repeat     %id  Spacer  Left flank    Repeat                               Spacer
+==========  ======  ======  ======  ==========    ================    ======
+     31252      16   100.0      50  NNNNNNNNNN    ................    GGCTGGTAAAACCTGTATCGCCAAACGGATCGGGATAGATGTTTCAACAC           
+     31318      16   100.0      30  NNNNNNNNNN    ................    GGCNNNNNNNNNNNNNNNNNNNNTCAACAC           
+     31364      16   100.0      49  NNNNNNNNNN    ................    GGCTGGGGAAAATGATTAAGGGTGTCCAGTGTAATAAAAGTTTCAACAC           
+     31429      16   100.0      52  NNNNNNNNNN    ................    GGCTGGACAGATTTAACAAAACTGCCATTGTTGTTTCCTTTAGTTTCAACAC           
+     31497      16   100.0      49  NNNNNNNNNN    ................    GGCTGGATACGCTTCCTGTGGCTTTTTCAGTAACTTCTTGTTTCAACAC           
+     31562      16   100.0      30  NNNNNNNNNN    ................    GGCNNNNNNNNNNNNNNNNNNNNTCAACAC           
+     31608      16   100.0      49  NNNNNNNNNN    ................    GGCTGGGCTCCTCTGGCTCTTGCTACTCAAGCATGGGCTGTTTCAACAC           
+     31673      16   100.0      51  NNNNNNNNNN    ................    GGCTGGGCGGCGGATGGGTGAGGCCGTCCGTAAACGGCAGCGTTTCAACAC           
+     31740      16   100.0      49  NNNNNNNNNN    ................    GGCTGGGTGTGTCAGACCACCACTACTCCCAGACCTGCCGTTTCAACAC           
+     31805      16   100.0      26  NNNNNNNNNN    ................    NNNNNNNNNNNNNNNNNNNNCAACAC           
+     31847      16   100.0      50  NNNNNNNNNN    ................    GGCTGGCAAGCAAAGTCTGCTTGGATTTGGATAACTGCCTGTTTCAACAC           
+     31913      16   100.0       0  NNNNNNNNNN    ................    NNNNNNNNNN
+==========  ======  ======  ======  ==========    ================
+        12      16              50                ACAGCCGCCTGAAGGC
+
+
+
+Array 1
+>SEQUENCE_651646992539BCPIASPHMSC03D10SCAFFOLD228WHOLEGENOMESHOTGUNSEQUENCE|
+
+       Pos  Repeat     %id  Spacer  Left flank    Repeat                               Spacer
+==========  ======  ======  ======  ==========    ===========================    ======
+      2146      27   100.0      41  NNNNNNNNNN    ...........................    TTAACTTTTTAAAAAGGATAACATCATGAAAAGTCTTAATC           
+      2214      27   100.0      43  NNNNNNNNNN    ...........................    TACGAGCTATTGGTGATGTCGAAGTTGTGGCTTTGTCTTAATC           
+      2284      27   100.0      42  NNNNNNNNNN    ...........................    TCAACAAAATGAAAGCATTTGAGAATCTAATTGGTCTTAATC           
+      2353      27   100.0      41  NNNNNNNNNN    ...........................    ATATAGTAATTTGCAGTTGCTGCCCATTCTTTGTCTTAATC           
+      2421      27   100.0      42  NNNNNNNNNN    ...........................    GCCAACAGGCGGACGAAATCGAAAAACTTTATCGTCTTAATC           
+      2490      27   100.0      43  NNNNNNNNNN    ...........................    TGTGATAGCGATATAAAATTATGGAAACTTTTAAGTCTTAATC           
+      2560      27   100.0      44  NNNNNNNNNN    ...........................    CTGTACAAGCGGGTTGAATCCGTTCCTGTGTTGAAGTCTTAATC           
+      2631      27   100.0      41  NNNNNNNNNN    ...........................    TGAAACCATGTGTTTATAGGTTTCAGACGACCGTCTTAATC           
+      2699      27   100.0       0  NNNNNNNNNN    ...........................    NNNNNNNNNN
+==========  ======  ======  ======  ==========    ===========================
+         9      27              41                CCCTAGTGATGGGGCTTTGTTTTTATC
+
+

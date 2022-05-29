@@ -1,0 +1,15 @@
+
+
+Array 1
+>SEQUENCE_391646992539MBBEEHNDWLASLIONENSISRHS90CONTIG43WHOLEGENOMESHOTGUNSEQUENCE|
+
+       Pos  Repeat     %id  Spacer  Left flank    Repeat                               Spacer
+==========  ======  ======  ======  ==========    ====================    ======
+     58257      20   100.0      40  NNNNNNNNNN    ....................    CCGGAAGCGCCACGCTCACCAAGCTCAATCCTGATTTTTC           
+     58317      20   100.0      40  NNNNNNNNNN    ....................    ACCACCAGCTCAGCATGAACGAGATACACTTTTCTTTTTC           
+     58377      20   100.0      40  NNNNNNNNNN    ....................    ACCCGCGCGAGTTTCGCGGGGCAAGCGTGCTGCTTTTTTC           
+     58437      20   100.0       0  NNNNNNNNNN    ....................    NNNNNNNNNN
+==========  ======  ======  ======  ==========    ====================
+         4      20              40                AGCTGCCTATTCGGCGGTTC
+
+

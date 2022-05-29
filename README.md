@@ -10,4 +10,6 @@ Host4phage uses other available tools: <br>
 **CRISPRDetect** --> [Reference](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2627-0) | [Source](https://github.com/ambarishbiswas/CRISPRDetect_2.2) <br>
 **Kmer-db** --> [Reference](https://academic.oup.com/bioinformatics/article/35/1/133/5050791) | [Source](https://github.com/refresh-bio/kmer-db) <br>
 
-All the above mentioned tools are called from the tool/bin folder.
+All the above mentioned tools are called from the tool/bin folder. 
+
+## 1. Requirements

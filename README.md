@@ -20,12 +20,12 @@ All the above mentioned tools are called from the tool/bin folder.
 * Input files must have the `FASTA` extension --> `(*.fasta, *.fna, *.fa)`
 
 ## 3. Description and usage
-The tool uses two subcommands `spacers` and `compare`.  The `spacers` subcommand is responsible for identifying and extracting spacers, and the `compare` subcommand is responsible for finding common sequences for hosts and bacteriophages. <br>
+The tool uses two subcommands `spacers` and `compare`.  The `spacers` subcommand is responsible for identifying and extracting *spacers*, and the `compare` subcommand is responsible for finding common sequences for hosts and bacteriophages by using *k*-mers. <br>
 
-Host4Phage with the `spacers` subcommand can be called from the command line in the following way: <br>
+Host4Phage with the `spacers` subcommand can be called from the command line in the following way (quick usage): <br>
 `python  tool/host4phage.py spacers -i host_20_test -o output_spacers/piler -m piler` <br>
 
-Host4Phage with the `compare` subcommand can be called from the command line in the following way: <br>
+Host4Phage with the `compare` subcommand can be called from the command line in the following way (quick usage): <br>
 `python tool/host4phage.py compare  -s  output_spacers  -v  virus_20_test  -o  output_compare`<br> <br>
 
 Parameters - `spacers` subcommand:
@@ -35,9 +35,16 @@ Parameters - `spacers` subcommand:
 |`-input`/`-i`|obligatory|Path to directory with bacterial genomes - files should <br> contain `FASTA` extension `(*.fasta, *.fna, *.fa)`.|
 |`-method`/`-m`|obligatory|Method name for CRISPR sequence identification <br> - `piler`/`crt`/`minced`/`crisprdetect`.|
 |`-threads`/`-t`|non-obligatory|Number of threads - by default it is adjusted <br>to the number of processor threads in the user's computer.|
-|`-output`/`-o`|non-obligatory|Path to directory where two subdirectories will be created: <br> `output` containing the result files of the selected method <br> and `fasta`  containing the extracted spacers.
+|`-output`/`-o`|non-obligatory|Path to directory where two subdirectories will be created: <br> `output` containing the result files of the selected method <br> and `fasta`  containing the extracted *spacers* - by default, <br> the directory named `spacers` will be created.| <br> <br>
 
+Parameters - `compare` subcommand:
 
-
+Name|Requiredness|Description|
+|----|----|----|
+|`-spacers`/`-s`|obligatory| |
+|`-virus`/`-v`|obligatory|Path to directory with bacteriophage genomes - files should <br> contain `FASTA` extension `(*.fasta, *.fna, *.fa)`|
+|`-k`|non-obligatory|A length of k-mers into which viral genomes and CRISPR <br>spacers found in hosts will be divided - by default *k*=18. |
+|`-threads`/`-t`|non-obligatory|Number of threads - by default it is adjusted to the <br> number of processor threads in the user's computer.|
+|`-output`/`-o`|non-obligatory| 
 
 

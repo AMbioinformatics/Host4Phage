@@ -1,5 +1,5 @@
 # Host4Phage
-Host4Phage is tool to type bacterial hosts for phages on the basis of genomic sequences of bacteriophages and bacteria. Host4Phage uses bacterial CRISPR-Cas system for this purpose. The tool supports multithreading computing.
+Host4Phage is tool to type bacterial hosts for phages on the basis of genomic sequences of bacteriophages and bacteria. Host4Phage uses bacterial CRISPR-Cas system for this purpose. The tool supports multithreading.
 
 ## 1. Tools used by Host4phage
 Host4phage uses other available tools: <br>
@@ -17,10 +17,12 @@ All the above mentioned tools will be called from the tool/bin folder.
 * Python dependencies: `tqdm` --> `pip install tqdm` and `joblib` --> `pip install joblib`. Check out --> [tqdm](https://pypi.org/project/tqdm/)| [joblib](https://pypi.org/project/joblib/).
 * CRT and MinCED tools require Java Runtime Environment. <br>
 * CRISPRDetect tool requires the following tools: `clustalw` `water` `seqret` `RNAfold` `cd-hit-est` `blastn`.  Check out--> [CRISPRDetect](https://github.com/ambarishbiswas/CRISPRDetect_2.2).
-* Input files must have the `FASTA` extension --> `(*.fasta, *.fna, *.fa)`
+* `FASTA` extension for input files is required --> `(*.fasta, *.fna, *.fa)`
 
 ## 3. Description and usage
-The tool uses two subcommands `spacers` and `compare`. `spacers` subcommand is responsible for identifying and extracting *spacers*. `compare` subcommand is responsible for finding common sequences for hosts and bacteriophages by using *k*-mers. <br>
+The tool uses two subcommands: `spacers` and `compare`. 
+* `spacers` subcommand is responsible for identifying and extracting *spacers*.
+* `compare` subcommand is responsible for finding common sequences for hosts and bacteriophages by using *k*-mers. <br>
 
 Host4Phage with `spacers` subcommand can be called from the command line in the following way (quick usage): <br>
 `python  tool/host4phage.py spacers -i host_20_test -o output_spacers/piler -m piler` <br>
@@ -42,9 +44,9 @@ Parameters - `compare` subcommand:
 
 Name|Requiredness|Description|
 |----|----|----|
-|`-spacers`/`-s`|obligatory|Directory path with extracted spacers  - if the directory <br> contains results from two or more methods for identifying <br> CRISPR sequences (e.g., the `output_spacers` directory will <br> contain subdirectories with *spacers*  for the CRT, MinCED, <br>  and PILER-CR program), simply pass the `output_spacers` <br> directory itself and the tool will combine the results of all <br>  the programs that are in it. You can also separately pass <br> paths to the results of each program in a single  command <br> to get the same result. Files with *spacers*  should be  in <br>`FASTA`  format `(*.fasta, *.fna, *.fa)`, because the tool <br> browses all subdirectories of the  specified  directory  for <br>files with this format. |
+|`-spacers`/`-s`|obligatory|Directory path with extracted *spacers*  - if the directory <br> contains results from two or more methods for identifying <br> CRISPR sequences (e.g., the `output_spacers` directory will <br> contain subdirectories with *spacers*  for the CRT, MinCED, <br>  and PILER-CR program), you should pass the `output_spacers` <br> directory itself and the tool will combine the results of all <br>  the programs which are in it. You can also pass the paths separately <br>  to the results of each program in a single  command <br> to get the same result. Files with *spacers*  should be  in <br>`FASTA`  format `(*.fasta, *.fna, *.fa)`, because the tool <br> browses all subdirectories of the  specified  directory  to find <br>files with this format. |
 |`-virus`/`-v`|obligatory|Directory path with bacteriophage genomes - files should <br> contain `FASTA` extension `(*.fasta, *.fna, *.fa)`|
-|`-k`|optional|Length of k-mers into which viral genomes and CRISPR <br>spacers found in hosts will be divided - by default *k*=18. |
+|`-k`|optional|Length of *k*-mers into which viral genomes and CRISPR <br>spacers found in hosts will be divided - by default, *k*=18. |
 |`-threads`/`-t`|optional|Number of threads - by default it is adjusted to the <br> number of processor threads in the user's computer.|
 |`-output`/`-o`|optional| Directory path where a file (`.CSV`) with the given<br> number of common *k*-mers of each  bacterial species with <br> each bacteriophage species will be created. - by default, <br> the directory named `comparison` will be created.| <br> <br> <br>
 <br>

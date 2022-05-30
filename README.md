@@ -1,5 +1,5 @@
 # Host4Phage
-The Host4Phage tool is used to type bacterial hosts for phages based on the genomic sequences of bacteriophages and bacteria. Host4Phage uses the bacterial defense system CRISPR for this purpose. The tool supports multi-threaded computing and can therefore be run on both personal computers and high-performance computers. 
+Host4Phage is tool to type bacterial hosts for phages based on the basis of genomic sequences of bacteriophages and bacteria. Host4Phage uses bacterial CRISPR-Cas system for this purpose. The tool supports multi-threaded computing.
 
 ## 1. Tools used by Host4phage
 Host4phage uses other available tools: <br>

@@ -46,7 +46,7 @@ Name|Requiredness|Description|
 |----|----|----|
 |`-spacers`/`-s`|obligatory|Directory path with extracted *spacers*  - if the directory <br> contains results from two or more methods for identifying <br> CRISPR sequences (e.g., the `output_spacers` directory will <br> contain subdirectories with *spacers*  for the CRT, MinCED, <br>  and PILER-CR program), you should pass the `output_spacers` <br> directory itself and the tool will combine the results of all <br>  the programs which are in it. You can also pass the paths separately <br>  to the results of each program in a single  command <br> to get the same result. Files with *spacers*  should be  in <br>`FASTA`  format `(*.fasta, *.fna, *.fa)`, because the tool <br> browses all subdirectories of the  specified  directory  to find <br>files with this format. |
 |`-virus`/`-v`|obligatory|Directory path with bacteriophage genomes - files should <br> contain `FASTA` extension `(*.fasta, *.fna, *.fa)`|
-|`-k`|optional|Length of *k*-mers for which viral genomes and CRISPR <br>spacers found in hosts will be divided - by default, *k*=18. |
+|`-k`|optional|Length of *k*-mers - viral genomes and CRISPR <br>spacers found in hosts will be divided into sequences of that length - by default, *k*=18. |
 |`-threads`/`-t`|optional|Number of threads - by default, is adjusted to the <br> number of processor threads in a user's computer.|
 |`-output`/`-o`|optional| Directory path where a file (`.CSV`) with the given<br> number of common *k*-mers of each  bacterial species with <br> each bacteriophage species will be created. - by default, <br> the directory named `comparison` will be created.| <br> <br> <br>
 <br>

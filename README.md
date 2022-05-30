@@ -10,7 +10,7 @@ Host4phage uses other available tools: <br>
 **CRISPRDetect** --> [Reference](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2627-0) | [Source](https://github.com/ambarishbiswas/CRISPRDetect_2.2) <br>
 **Kmer-db** --> [Reference](https://academic.oup.com/bioinformatics/article/35/1/133/5050791) | [Source](https://github.com/refresh-bio/kmer-db) <br>
 
-All the above mentioned tools are called from the tool/bin folder. 
+All the above mentioned tools will be called from the tool/bin folder. 
 
 ## 2. Requirements
 * To run host4phage.py you'll need Python 3.8.8 or greater.
@@ -46,6 +46,6 @@ Name|Requiredness|Description|
 |`-virus`/`-v`|obligatory|Path to directory with bacteriophage genomes - files should <br> contain `FASTA` extension `(*.fasta, *.fna, *.fa)`|
 |`-k`|non-obligatory|Length of k-mers into which viral genomes and CRISPR <br>spacers found in hosts will be divided - by default *k*=18. |
 |`-threads`/`-t`|non-obligatory|Number of threads - by default it is adjusted to the <br> number of processor threads in the user's computer.|
-|`-output`/`-o`|non-obligatory| 
+|`-output`/`-o`|non-obligatory| The path to the directory where a file (`.CSV`) with the given<br> number of common *k*-mers of each  bacterial species with <br> each bacteriophage species will be created. - by default, <br> the directory named `comparison` will be created.
 
 

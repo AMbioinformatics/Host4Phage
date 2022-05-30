@@ -17,15 +17,27 @@ All the above mentioned tools are called from the tool/bin folder.
 * Python dependencies: `tqdm` --> `pip install tqdm` and `joblib` --> `pip install joblib`. Check out --> [tqdm](https://pypi.org/project/tqdm/) [joblib](https://pypi.org/project/joblib/).
 * CRT and MinCED tools require Java Runtime Environment. <br>
 * CRISPRDetect tool requires the following tools: `clustalw` `water` `seqret` `RNAfold` `cd-hit-est` `blastn`.  Check out--> [CRISPRDetect](https://github.com/ambarishbiswas/CRISPRDetect_2.2).
-* Input files must have the `FASTA` extension --> `[*.fasta, *.fna, *.fa]`
+* Input files must have the `FASTA` extension --> `(*.fasta, *.fna, *.fa)`
 
-## 3. Description
-The tool uses two subcommands `spacers` and `compare`.  The `spacers` subcommand is responsible for identifying and extracting spacers, and the compare subcommand is responsible for finding common sequences for hosts and bacteriophages. <br>
+## 3. Description and usage
+The tool uses two subcommands `spacers` and `compare`.  The `spacers` subcommand is responsible for identifying and extracting spacers, and the `compare` subcommand is responsible for finding common sequences for hosts and bacteriophages. <br>
 
 Host4Phage with the `spacers` subcommand can be called from the command line in the following way: <br>
 `python  tool/host4phage.py spacers -i host_20_test -o output_spacers/piler -m piler` <br>
 
 Host4Phage with the `compare` subcommand can be called from the command line in the following way: <br>
-`python tool/host4phage.py compare  -s  output_spacers  -v  virus_20_test  -o  output_compare`<br>
+`python tool/host4phage.py compare  -s  output_spacers  -v  virus_20_test  -o  output_compare`<br> <br>
+
+Parameters - `spacers` subcommand:
+
+|Name|Requiredness|Description|
+|----|----|----|
+|`-input`/`-i`|obligatory|Path to directory with bacterial genomes - files should <br> contain `FASTA` extension `(*.fasta, *.fna, *.fa)`.|
+|`-method`/`-m`|obligatory|Method name for CRISPR sequence identification <br> - `piler`/`crt`/`minced`/`crisprdetect`.|
+|`-threads`/`-t`|non-obligatory|Number of threads - by default it is adjusted <br>to the number of processor threads in the user's computer.|
+|`-output`/`-o`|non-obligatory|Path to directory where two subdirectories will be created: <br> `output` containing the result files of the selected method <br> and `fasta`  containing the extracted spacers.
+
+
+
 
 

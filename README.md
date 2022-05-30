@@ -14,4 +14,4 @@ All the above mentioned tools are called from the tool/bin folder.
 
 ## 2. Requirements
 * CRT and MinCED tools require Java Runtime Environment. <br>
-* 
+* CRISPRDetect tool requires the following tools: `clustalw` `water` `seqret` `RNAfold` `cd-hit-est` `blastn`.  Check out--> [CRISPRDetect](https://github.com/ambarishbiswas/CRISPRDetect_2.2).

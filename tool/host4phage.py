@@ -121,7 +121,7 @@ parser_compare.add_argument('-s', '--s', '-spacers','--spacers', dest='spacers',
 parser_compare.add_argument('-v', '--v', '-virus','--virus', dest='viral_genomes', required=True,
 	help='Virus_genomes: path to the directory containing viral genomes - files with the fa/fna/fasta extension')
 parser_compare.add_argument('-k', '--k', dest='k', type=int, default=18,
-	help='k-length into which viral genomes and CRISPR spacers found in hosts will be divided for comparison')
+	help='k-length - viral genomes and CRISPR spacers found in hosts will be divided into sequences of that length')
 parser_compare.add_argument('-t', '--t', '-threads', '--threads', dest='threads', type=int, 
 	default= multiprocessing.cpu_count(), help='Threads: number of threads')
 parser_compare.add_argument('-o', '--o', '-output', '--output', dest='output', default='comparison',

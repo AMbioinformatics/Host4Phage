@@ -20,12 +20,12 @@ All the above mentioned tools will be called from the tool/bin folder.
 * Input files must have the `FASTA` extension --> `(*.fasta, *.fna, *.fa)`
 
 ## 3. Description and usage
-The tool uses two subcommands `spacers` and `compare`.  The `spacers` subcommand is responsible for identifying and extracting *spacers*, and the `compare` subcommand is responsible for finding common sequences for hosts and bacteriophages by using *k*-mers. <br>
+The tool uses two subcommands `spacers` and `compare`. `spacers` subcommand is responsible for identifying and extracting *spacers*. `compare` subcommand is responsible for finding common sequences for hosts and bacteriophages by using *k*-mers. <br>
 
-Host4Phage with the `spacers` subcommand can be called from the command line in the following way (quick usage): <br>
+Host4Phage with `spacers` subcommand can be called from the command line in the following way (quick usage): <br>
 `python  tool/host4phage.py spacers -i host_20_test -o output_spacers/piler -m piler` <br>
 
-Host4Phage with the `compare` subcommand can be called from the command line in the following way (quick usage): <br>
+Host4Phage with `compare` subcommand can be called from the command line in the following way (quick usage): <br>
 `python tool/host4phage.py compare  -s  output_spacers  -v  virus_20_test  -o  output_compare`<br> <br>
 
 Parameters - `spacers` subcommand:

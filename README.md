@@ -14,7 +14,7 @@ All the above mentioned tools will be called from the tool/bin folder.
 
 ## 2. Requirements
 * To run host4phage.py you'll need Python 3.8.8 or greater.
-* Python dependencies: `tqdm` --> `pip install tqdm` and `joblib` --> `pip install joblib`. Check out --> [tqdm](https://pypi.org/project/tqdm/) [joblib](https://pypi.org/project/joblib/).
+* Python dependencies: `tqdm` --> `pip install tqdm` and `joblib` --> `pip install joblib`. Check out --> [tqdm](https://pypi.org/project/tqdm/)| [joblib](https://pypi.org/project/joblib/).
 * CRT and MinCED tools require Java Runtime Environment. <br>
 * CRISPRDetect tool requires the following tools: `clustalw` `water` `seqret` `RNAfold` `cd-hit-est` `blastn`.  Check out--> [CRISPRDetect](https://github.com/ambarishbiswas/CRISPRDetect_2.2).
 * Input files must have the `FASTA` extension --> `(*.fasta, *.fna, *.fa)`

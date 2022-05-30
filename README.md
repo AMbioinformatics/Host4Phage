@@ -37,7 +37,7 @@ Parameters - `spacers` subcommand:
 |`-input`/`-i`|obligatory|Directory path with bacterial genomes - files should <br> contain `FASTA` extension `(*.fasta, *.fna, *.fa)`.|
 |`-method`/`-m`|obligatory|Method for CRISPR sequence identification <br> - `piler`/`crt`/`minced`/`crisprdetect`.|
 |`-threads`/`-t`|optional|Number of threads - by default, is adjusted to the <br> number of processor threads in a user's computer.|
-|`-output`/`-o`|optional|Directory path where two subdirectories will be created: <br> `output` containing the result files of the selected method <br> and `fasta`  containing the extracted *spacers* - by default, <br> the directory named `spacers` will be created.| <br> <br>
+|`-output`/`-o`|optional|Directory path where two subdirectories will be created: <br> `output` containing result files of the selected method <br> and `fasta`  containing extracted *spacers* - by default, <br> the directory named `spacers` will be created.| <br> <br>
 <br>
 
 Parameters - `compare` subcommand:

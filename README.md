@@ -12,4 +12,6 @@ Host4phage uses other available tools: <br>
 
 All the above mentioned tools are called from the tool/bin folder. 
 
-## 1. Requirements
+## 2. Requirements
+* CRT and MinCED tools require Java Runtime Environment. <br>
+* 

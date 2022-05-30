@@ -34,8 +34,9 @@ Parameters - `spacers` subcommand:
 |----|----|----|
 |`-input`/`-i`|obligatory|Path to directory with bacterial genomes - files should <br> contain `FASTA` extension `(*.fasta, *.fna, *.fa)`.|
 |`-method`/`-m`|obligatory|Method name for CRISPR sequence identification <br> - `piler`/`crt`/`minced`/`crisprdetect`.|
-|`-threads`/`-t`|non-obligatory|Number of threads - by default it is adjusted <br>to the number of processor threads in the user's computer.|
+|`-threads`/`-t`|non-obligatory|Number of threads - by default it is adjusted to the <br> number of processor threads in the user's computer.|
 |`-output`/`-o`|non-obligatory|Path to directory where two subdirectories will be created: <br> `output` containing the result files of the selected method <br> and `fasta`  containing the extracted *spacers* - by default, <br> the directory named `spacers` will be created.| <br> <br>
+<br>
 
 Parameters - `compare` subcommand:
 
@@ -43,7 +44,7 @@ Name|Requiredness|Description|
 |----|----|----|
 |`-spacers`/`-s`|obligatory| |
 |`-virus`/`-v`|obligatory|Path to directory with bacteriophage genomes - files should <br> contain `FASTA` extension `(*.fasta, *.fna, *.fa)`|
-|`-k`|non-obligatory|A length of k-mers into which viral genomes and CRISPR <br>spacers found in hosts will be divided - by default *k*=18. |
+|`-k`|non-obligatory|Length of k-mers into which viral genomes and CRISPR <br>spacers found in hosts will be divided - by default *k*=18. |
 |`-threads`/`-t`|non-obligatory|Number of threads - by default it is adjusted to the <br> number of processor threads in the user's computer.|
 |`-output`/`-o`|non-obligatory| 
 

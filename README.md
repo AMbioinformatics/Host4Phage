@@ -36,7 +36,7 @@ Parameters - `spacers` subcommand:
 |----|----|----|
 |`-input`/`-i`|obligatory|Directory path with bacterial genomes - files should <br> contain `FASTA` extension `(*.fasta, *.fna, *.fa)`.|
 |`-method`/`-m`|obligatory|Method for CRISPR sequence identification <br> - `piler`/`crt`/`minced`/`crisprdetect`.|
-|`-threads`/`-t`|optional|Number of threads - by default, is adjusted to the <br> number of processor threads in a user's computer.|
+|`-threads`/`-t`|optional|Number of threads -  is adjusted by default to the <br> number of processor threads in a user's computer.|
 |`-output`/`-o`|optional|Directory path where two subdirectories will be created: <br> `output` containing result files of the selected method <br> and `fasta`  containing extracted *spacers* - by default, <br> the directory named `spacers` will be created.| <br> <br>
 <br>
 
@@ -47,7 +47,7 @@ Name|Requiredness|Description|
 |`-spacers`/`-s`|obligatory|Directory path with extracted *spacers*  - you can combine <br> results from all methods for identyfing CRISPR sequences <br> in two ways. The first one is to pass a directory where <br> subdirectories with the result files are located (e.g., the <br> `output_spacers` directory will contain subdirectories <br>with *spacers*  for all methods and you can use  only <br>`-s output_spacers`). The second one is to pass paths <br>to the results of each method separately in a single <br> command. Files with *spacers*  should contain `FASTA`  <br> extension  `(*.fasta, *.fna, *.fa)`.|
 |`-virus`/`-v`|obligatory|Directory path with bacteriophage genomes - files should <br> contain `FASTA` extension `(*.fasta, *.fna, *.fa)`.|
 |`-k`|optional|Length of *k*-mers - viral genomes and CRISPR spacers <br> found in hosts will be divided into sequences of the <br> given length - by default, *k* = 18. |
-|`-threads`/`-t`|optional|Number of threads - by default, is adjusted to the  number <br> of processor threads in a user's computer.|
+|`-threads`/`-t`|optional|Number of threads - is adjusted by default to the  number <br> of processor threads in a user's computer.|
 |`-output`/`-o`|optional| Directory path where a file with `.CSV` extension will be <br> created - by default, the directory will be named <br>  `comparison`. The file will contain number of common <br> *k*-mers for each bacterial and bacteriophage species.| <br> <br> <br>
 <br>
 <br>

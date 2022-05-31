@@ -1,5 +1,5 @@
 # Host4Phage
-Host4Phage is tool to type bacterial hosts for phages on the basis of genomic sequences of bacteriophages and bacteria. Host4Phage uses bacterial CRISPR-Cas system for this purpose. The tool supports multithreading.
+A tool to type bacterial hosts for phages on the basis of genomic sequences of bacteriophages and bacteria. Host4Phage uses bacterial CRISPR-Cas system for this purpose. The tool supports multithreading.
 
 ## 1. Tools used by Host4phage
 Host4phage uses other available tools: <br>
@@ -44,7 +44,7 @@ Parameters - `compare` subcommand:
 
 Name|Requiredness|Description|
 |----|----|----|
-|`-spacers`/`-s`|obligatory|Directory path with extracted *spacers*  - you can combine <br> results from all methods for identyfing CRISPR sequences <br> in two ways. The first one is to pass directory where <br> subdirectories with result files are located (e.g., the <br> `output_spacers` directory will contain subdirectories <br>with *spacers*  for all methods and you can use  only <br>`-s output_spacers`). The second one is to pass paths <br>to the results of each method separately in a single <br> command. Files with *spacers*  should contain `FASTA`  <br> extension  `(*.fasta, *.fna, *.fa)`.|
+|`-spacers`/`-s`|obligatory|Directory path with extracted *spacers*  - you can combine <br> results from all methods for identyfing CRISPR sequences <br> in two ways. The first one is to pass directory where <br> subdirectories with the result files are located (e.g., the <br> `output_spacers` directory will contain subdirectories <br>with *spacers*  for all methods and you can use  only <br>`-s output_spacers`). The second one is to pass paths <br>to the results of each method separately in a single <br> command. Files with *spacers*  should contain `FASTA`  <br> extension  `(*.fasta, *.fna, *.fa)`.|
 |`-virus`/`-v`|obligatory|Directory path with bacteriophage genomes - files should <br> contain `FASTA` extension `(*.fasta, *.fna, *.fa)`.|
 |`-k`|optional|Length of *k*-mers - viral genomes and CRISPR spacers <br> found in hosts will be divided into sequences of that <br> length - by default, *k*=18. |
 |`-threads`/`-t`|optional|Number of threads - by default, is adjusted to the  number <br> of processor threads in a user's computer.|

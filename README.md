@@ -1,5 +1,5 @@
 # Host4Phage
-A tool to type bacterial hosts for phages on the basis of genomic sequences of bacteriophages and bacteria. Host4Phage uses bacterial CRISPR-Cas system for this purpose. The tool supports multithreading.
+A tool to identify bacterial hosts for phages on the basis of genomic sequences of bacteriophages and bacteria. Host4Phage uses bacterial CRISPR-Cas system for this purpose. The tool supports multithreading.
 
 ## 1. Tools used by Host4phage
 Host4phage uses other available tools: <br>

@@ -1,3 +1,4 @@
+# This module was developed by Andrzej Zielezinski from Department of Computational Biology at Adam Mickiewicz University in Poznan
 from typing import Dict, Collection, Callable
 
 import joblib
